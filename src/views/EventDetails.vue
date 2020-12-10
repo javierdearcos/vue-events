@@ -10,7 +10,7 @@
 import EventService from '@/services/EventService'
 
 export default {
-  name: "EventDetails",
+  name: 'EventDetails',
   props: ['id'],
   data() {
     return {
